@@ -142,4 +142,4 @@ All other scenarios can be easily added by following the same structure in `logi
 
 This project is submitted as part of a QA automation assignment and is intended for demonstration and evaluation purposes only.
 
-```
+---
