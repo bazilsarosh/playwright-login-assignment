@@ -30,12 +30,18 @@ This project automates the login functionality testing of a demo web application
 ```
 
 playwright-login-assignment/
+├── playwright-report/
+│   └── index.html           # Entry point for viewing test results
 ├── tests/
 │   └── login.spec.js        # Automated test cases
-├── test-cases.md            # Manual test cases (table format)
 ├── .gitignore               # Node-related ignores
 ├── README.md                # This file
-└── package.json             # Project metadata and scripts
+├── package-lock.json        # Dependency lock file
+├── package.json             # Project metadata and scripts
+├── playwright.config.js     # Configuration file for playwright
+└── test-cases.md            # Manual test cases (table format)
+
+
 
 ````
 
