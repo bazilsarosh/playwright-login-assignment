@@ -16,4 +16,4 @@
 | TC07   | Login with incorrect password                                   | `student`      | `wrongpass`    | Error message should appear               |
 | TC08   | Login with both fields empty                                    | (empty)        | (empty)        | Error message should appear               |
 | TC09   | Login with only username                                        | `student`      | (empty)        | Error message should appear               |
-| TC10   | Login with uppercase username (case mismatch)	                 | `STUDENT`      | `^&*()_`       | Error message should appear               |     
+| TC10   | Login with uppercase username (case mismatch)	                 | `STUDENT`      | `Password123`  | Error message should appear               |     
