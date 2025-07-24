@@ -2,7 +2,7 @@ Absolutely! Below is an improved and **assignment-ready `README.md`** that inclu
 
 ---
 
-# 🔐 Playwright Login Automation Assignment – QA Engineer Task
+# 🔐 Playwright Login Automation Assignment – Senior QA Engineer Task
 
 This project automates the login functionality testing of a demo web application using **Playwright with JavaScript**.
 
