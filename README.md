@@ -69,7 +69,7 @@ playwright-login-assignment/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/playwright-login-assignment.git
+git clone https://github.com/bazilsarosh/playwright-login-assignment.git
 cd playwright-login-assignment
 ````
 
